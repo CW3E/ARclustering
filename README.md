@@ -1,1 +1,2 @@
 # ARclustering
+This repository contains files with the main Python and R code for the following publication: Yang, Z., M. J. DeFlorio, A. Sengupta, J. Wang, C. M. Castellano, A. Gershunov, K. Guirguis, E. Slinskey, B. Guan, L. Delle Monache, and F. M. Ralph (2024), Temporal clustering of unique atmospheric rivers impacting the Western U.S.: seasonality and climate modes modulation. Nature Communications Earth & Environment, in revision.
